@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1514140574 source:d:\projectos\c\analisadorsemantico\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1574692969 source:d:\projectos\c\analisadorsemantico\analsemantico.c
+	<string.h>
+	<strings.h>
+	"analSemantico.h"
+	<stdio.h>
+	<stdlib.h>
+
+1574693055 d:\projectos\c\analisadorsemantico\analsemantico.h
+
